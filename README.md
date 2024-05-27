@@ -1,6 +1,4 @@
-```javascript
-console.log("Bem-vindo ao meu perfil no GitHub!")
-```
+
 ### Sobre mim 😊
 Me chamo Kauan Vitor De Souza, apaixonado por matemática. Meu objetivo é me formar em engenharia civil e contribuir para o mundo. Atualmente, sou um estudante do ensino médio cheio de ambições, imerso no mundo do desenvolvimento de software.
 
