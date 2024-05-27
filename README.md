@@ -1,16 +1,33 @@
-## Hi there 👋
+```javascript
+console.log("Bem-vindo ao meu perfil no GitHub!")
+```
+### Sobre mim 😊
+Me chamo Kauan Vitor De Souza, apaixonado por matemática. Meu objetivo é me formar em engenharia civil e contribuir para o mundo. Atualmente, sou um estudante do ensino médio cheio de ambições, imerso no mundo do desenvolvimento de software.
 
-<!--
-**kauansouzasenai/kauansouzasenai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### Experiências 👨🏻‍🎓
+Tenho experiência como desenvolvedor de software em várias linguagens, JavaScript e C++. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades técnicas. 🧠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### Tech Stack 👨‍💻
+<div align="center">
+Back-end: &ensp;
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="30" height="30"/> &ensp;
+Front-end: &ensp;
+<img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width="30" height="30"/> &ensp;
+Code Version: &ensp;
+<img src="https://cdn-icons-png.flaticon.com/512/4494/4494740.png" width="30" height="30"/>&ensp;
+<img src="https://cdn-icons-png.flaticon.com/512/779/779088.png" width="30" height="30"/>
+</div>
+
+<br>
+
+#### Estatísticas do GitHub 📊
+
+<div align="center">
+  <a href="https://github.com/kauansouzasenai"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauansouzasenai&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauansouzasenai&layout=compact&langs_count=7&theme=defult"/>
+</div>
