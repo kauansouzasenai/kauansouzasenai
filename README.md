@@ -1,11 +1,11 @@
 
 ### Sobre mim 😊
-Me chamo Kauan Vitor De Souza, apaixonado por matemática. Meu objetivo é me formar em engenharia civil e contribuir para o mundo. Atualmente, sou um estudante do ensino médio cheio de ambições, imerso no mundo do desenvolvimento de software.
+Me chamo Kauan Vitor De Souza, apaixonado por matemática. Meu objetivo é me formar em engenharia civil e contribuir para o mundo. Atualmente, sou um estudante do ensino e estou com muito interesse em HTML
 
 <br>
 
 ### Experiências 👨🏻‍🎓
-Tenho experiência como desenvolvedor de software em várias linguagens, JavaScript e C++. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades técnicas. 🧠
+Tenho experiencia em HTML, para criar e estilizar meus sites. 🧠
 
 <br>
 
