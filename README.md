@@ -1,3 +1,5 @@
+<img src="https://i.gifer.com/XOsX.gif" width="300" height="300"/>&ensp;
+
 
 ### Sobre mim 😊
 Me chamo Kauan Vitor De Souza, apaixonado por matemática. Meu objetivo é me formar em engenharia civil e contribuir para o mundo. Atualmente, sou um estudante do ensino e estou com muito interesse em HTML
