@@ -33,3 +33,6 @@ Code Version: &ensp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauansouzasenai&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauansouzasenai&layout=compact&langs_count=7&theme=defult"/>
 </div>
+<div align="center">
+<img src="https://i.gifer.com/XOsX.gif" width="300" height="300"/>&ensp;
+</div>
