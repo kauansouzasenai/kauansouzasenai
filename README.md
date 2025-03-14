@@ -1,4 +1,4 @@
-<div align="center>
+<div align="center">
 <img src="https://i.gifer.com/XOsX.gif" width="300" height="300"/>&ensp;
 </div>
 
