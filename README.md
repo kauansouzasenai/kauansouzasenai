@@ -18,6 +18,7 @@ Front-end: &ensp;
 Code Version: &ensp;
 <img src="https://cdn-icons-png.flaticon.com/512/4494/4494740.png" width="30" height="30"/>&ensp;
 <img src="https://cdn-icons-png.flaticon.com/512/779/779088.png" width="30" height="30"/>
+  <img src="https://i.gifer.com/XOsX.gif" width="30" height="30"/>&ensp;
 </div>
 
 <br>
