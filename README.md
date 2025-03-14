@@ -34,5 +34,5 @@ Code Version: &ensp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauansouzasenai&layout=compact&langs_count=7&theme=defult"/>
 </div>
 <div align="center">
-<img src="https://i.gifer.com/XOsX.gif" width="300" height="300"/>&ensp;
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.uol.com.br%2Ftilt%2Fnoticias%2Fredacao%2F2022%2F04%2F02%2Fcomo-fazer-gif-animado.htm&psig=AOvVaw2ceflaaBTadmB9TUGER1y-&ust=1742040842363000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNik1pTKiYwDFQAAAAAdAAAAABAS" width="300" height="300"/>&ensp;
 </div>
